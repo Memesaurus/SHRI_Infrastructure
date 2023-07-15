@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bca2b5ee.css","mappings":"AAAA,KACI,YACJ,CAEA,QAEI,gBACJ,CAEA,MACI,4BACJ,CAEA,MACI,eACJ","sources":["index.css"],"sourcesContent":["body {\n    padding: 20px;\n}\n\ninput,\na {\n    margin-right: 8px;\n}\n\n.done {\n    text-decoration: line-through;\n}\n\n.list {\n    margin-top: 12px;\n}\n"],"names":[],"sourceRoot":""}
