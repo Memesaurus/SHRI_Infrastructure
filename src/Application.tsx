@@ -28,6 +28,7 @@ export const Application: FC = () => {
         <Route path="/" element={home} />
         <Route path="/" element={home} />
         <Route path="/" element={home} />
+        <Route path="/" element={home} />
       </Routes>
     </div>
   );
